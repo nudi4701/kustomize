@@ -21,5 +21,5 @@ spec:
       - image: ipnginx
         name: ipnginx
         port:
-          containerPort: 80
+        - containerPort: 80
 
