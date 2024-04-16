@@ -22,5 +22,4 @@ spec:
         name: ipnginx
         port:
           containerPort: 80
-        resources: {}
-status: {}
+
