@@ -22,4 +22,5 @@ spec:
         name: ipnginx
         ports:
         - containerPort: 80
+      -
 
